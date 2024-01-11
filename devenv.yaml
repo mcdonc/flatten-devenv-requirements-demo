@@ -1,0 +1,11 @@
+inputs:
+  nixpkgs:
+    url: github:mcdonc/nixpkgs/nixos-23.11-python-env-venv
+  nixpkgs-python:
+    url: github:cachix/nixpkgs-python
+    inputs:
+      nixpkgs:
+        follows: nixpkgs
+  devenv:
+    #url: github:mcdonc/devenv/flatten-python-requirements
+    url: path:/home/chrism/projects/devenv/src/modules
