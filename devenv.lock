@@ -9,11 +9,11 @@
         "pre-commit-hooks": "pre-commit-hooks"
       },
       "locked": {
-        "lastModified": 1704994330,
+        "lastModified": 1704995584,
         "owner": "mcdonc",
         "repo": "devenv",
-        "rev": "54e27f3275d51c73e1532c065ad42223fd285528",
-        "treeHash": "e3fa189b933a51c904178ced26886edddc732847",
+        "rev": "592f7af7df35fe7cb0ea4cd85870668c13362345",
+        "treeHash": "24e05b7b329f91c1b571444e37c2ada340ee3a58",
         "type": "github"
       },
       "original": {
